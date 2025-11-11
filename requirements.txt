@@ -1,0 +1,10 @@
+numpy
+numba
+scipy
+
+# visualization
+seaborn
+matplotlib
+
+# user
+tqdm
