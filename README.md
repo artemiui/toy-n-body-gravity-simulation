@@ -1,5 +1,7 @@
 # toy-n-body-gravity-simulation
 
+<img width="1920" height="1047" alt="image" src="https://github.com/user-attachments/assets/8af5dbc1-b21d-4a8d-af85-11c0a21f04ce" />
+
 The attraction between cosmological bodies is governed by a set of physical laws that are mostly relativistic, in other words, Einstein-based. Those are too complex, and require extremely powerful calculations to simulate. Although some tools are available now, I want to keep things simple for a first time. In this case, I develop a simple physical N-body simulation based on Newton’s equations on gravity, simulating the cumulative orbit of any *n* amount of bodies in a given plane. GPU accelaration via **cupy** was also one of the things I learned through this project.
 
 ---
